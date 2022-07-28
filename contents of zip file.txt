@@ -1,4 +1,4 @@
-# phase1programs_1
+# phase1programs_1.zip
 1 Writing a program in Java to implement implicit and explicit type casting
 
 2 Writing a program in Java to implement access modifiers
@@ -19,7 +19,7 @@
 
 10 Writing a program in Java to verify implementations of regular expressions
 
-#phase1programs_2
+#phase1programs_2.zip
 1 Write a program in Java to create a thread by extending the ‘Thread’ class and by implementing the “Runnable” interface
 
 2 Write a program in Java to demonstrate sleep() and wait()
@@ -38,7 +38,7 @@
 
 9 Write a program in Java to resolve the diamond problem using OOPs’ concepts
 
-#phase1programs_3
+#phase1programs_3.zip
 1 Write a program in Java to right rotate an array by 5 steps
 
 2 Write a program in Java to find the fourth smallest element in an unsorted list
@@ -57,7 +57,7 @@
 
 9 Write a program in Java to insert and remove elements in a queue
 
-#phase1programs_4
+#phase1programs_4.zip
 1 Writing a program in Java implementing the linear search algorithm
 
 2 Writing a program in Java implementing the binary search algorithm
